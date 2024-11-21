@@ -1,4 +1,5 @@
-### Hi there 👋, my name is <span style="color:DarkBlue; font-weight:bold;">Md. Alauddin</span>
+### Hi there 👋, my name is <span style="color:DarkBlue; font-weight:bold;"> **Md. Alauddin**</span>
+
 #### Aspiring Data Analyst exploring data insights using Python, SQL, Excel, and Power BI.
 
 "I reside in Bangladesh and Passionate about data analysis, I’ve been honing my skills in different analysing tools over the past year. My goal is to become a dedicated data analyst, solving complex business and industrial challenges through data-driven insights."
