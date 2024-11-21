@@ -13,9 +13,9 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/databyalauddin/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@Alauddin-f2f)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TalhaYamin364)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DatabyAlauddin)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaYamin364&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DatabyAlauddin&show_icons=true&theme=dark)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=TalhaYamin364&theme=dark)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=DatabyAlauddin&theme=dark)
 
